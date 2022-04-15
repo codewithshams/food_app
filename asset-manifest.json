@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/food_app/static/css/main.6afacc40.css",
+    "main.js": "/food_app/static/js/main.61ea88d0.js",
+    "static/media/home_bg_3.png": "/food_app/static/media/home_bg_3.d35ef20ab7ee0980b933.png",
+    "static/media/2.png": "/food_app/static/media/2.44446b0ae5a3365ed14c.png",
+    "static/media/6.png": "/food_app/static/media/6.98ec401d958f1869a52e.png",
+    "static/media/1.png": "/food_app/static/media/1.247f8bb85d76259b4e35.png",
+    "static/media/7.png": "/food_app/static/media/7.9e1425a134fa5af0836d.png",
+    "static/media/5.png": "/food_app/static/media/5.e2ea96bb52a867752cd8.png",
+    "static/media/3.png": "/food_app/static/media/3.254abfca033b23359e18.png",
+    "static/media/chips_eating.png": "/food_app/static/media/chips_eating.e83049d747246e2ffa5a.png",
+    "static/media/Montserrat-Bold.ttf": "/food_app/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/4.png": "/food_app/static/media/4.42753df32c5e8ff79f84.png",
+    "static/media/mango.png": "/food_app/static/media/mango.a6975659c25450d009a2.png",
+    "static/media/crop.png": "/food_app/static/media/crop.3431377da5fdb3f3da26.png",
+    "static/media/logo.png": "/food_app/static/media/logo.11160b23d6149c61464a.png",
+    "index.html": "/food_app/index.html",
+    "main.6afacc40.css.map": "/food_app/static/css/main.6afacc40.css.map",
+    "main.61ea88d0.js.map": "/food_app/static/js/main.61ea88d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afacc40.css",
+    "static/js/main.61ea88d0.js"
+  ]
+}
